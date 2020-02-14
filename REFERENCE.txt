@@ -1,0 +1,3 @@
+https://github.com/shubhcm/Appliance-Energy-Prediction/blob/master/predict_energy_consumption.ipynb
+
+https://github.com/giorgosfatouros/Appliances-Energy-Load-Prediction/blob/master/energy_load_forecasting.ipynb
